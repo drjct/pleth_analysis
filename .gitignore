@@ -1,0 +1,4 @@
+
+#Ignore these folders when uploading to github
+.ipynb_checkpoints/
+Poincare_Plots/
