@@ -1,6 +1,8 @@
 # Analysis of Plethysmography Data
 
-Uses Jupyter notebook. Main features are as follows:
+Uses Jupyter notebook. Single Run describes the functions in detail while Batch Run simply runs multiple files into multiple output files. Each input file produces its own output file. 
+
+Main features are as follows:
 
 Filter data
 - peakutil baseline (baseline correction)
@@ -38,4 +40,3 @@ Output
 - Poincare SD 2 Interburst Interval
 - Poincare SD1/SD2 Ratio Interburst Interval
 - Poincare Plots (y = SD1, x = SD2) with ellipses
-# Poincare Plots (y = SD1, x = SD2) with ellipses
